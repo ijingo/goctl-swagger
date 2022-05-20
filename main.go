@@ -6,6 +6,8 @@ import (
 	"runtime"
 
 	"github.com/ijingo/goctl-swagger/action"
+
+	"github.com/urfave/cli/v2"
 )
 
 var (

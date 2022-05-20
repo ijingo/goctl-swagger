@@ -1,8 +1,9 @@
 package action
 
 import (
-	"github.com//go-zero/tools/goctl/plugin"
 	"github.com/ijingo/goctl-swagger/generate"
+	"github.com/urfave/cli/v2"
+	"github.com/zeromicro/go-zero/tools/goctl/plugin"
 )
 
 func Generator(ctx *cli.Context) error {
